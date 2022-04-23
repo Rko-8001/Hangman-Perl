@@ -1,11 +1,5 @@
-Name :      Yadwinder Singh
-Entry No.:  2020CSB1143
-
-TicTacToe : CS202 Lab 3
-
-Files included :
-    Hangman.pl
-    README.txt
+Hi Everyone, This time I worked on a famous game known as Hangman. It is coded in perl as instructed by course instructor. 
+More instructions and importent info is given below. Make sure to go thorugh before playing it.
 
 How to run: 
  ->     open folder in Terminal
